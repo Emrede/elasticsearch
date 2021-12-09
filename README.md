@@ -1,4 +1,4 @@
-# elasticsearch task
+# elasticsearch
 
 ### Kibana URL: localhost:5601
 ### Elasticsearch URL: localhost:9200
